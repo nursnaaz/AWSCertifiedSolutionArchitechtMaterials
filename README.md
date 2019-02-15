@@ -1,6 +1,8 @@
 # AWSCertifiedSolutionArchitechtMaterials
 This the Study material to follow to get prepared for AWS Certified Solution Architect - Associate.
 
+**Day - 1**
+
 AWS Certified Solution Architect Study Guide
 http://file.allitebooks.com/20170214/AWS%20Certified%20Solutions%20Architect%20Official%20Study%20Guide.pdf
 
@@ -20,5 +22,28 @@ AWS Web Services: Overview of Security
 https://d0.awsstatic.com/whitepapers/Security/AWS_Security_Whitepaper.pdf
 
 AWS Storage service overview
-
 https://d0.awsstatic.com/whitepapers/AWS%20Storage%20Services%20Whitepaper-v9.pdf
+
+**Day - 2**
+
+S3:
+Versioning in S3
+https://docs.aws.amazon.com/AmazonS3/latest/dev/ObjectVersioning.html
+
+Replication
+https://docs.aws.amazon.com/AmazonS3/latest/dev/crr-what-is-isnot-replicated.html
+
+Cross Region Replication
+https://aws.amazon.com/solutions/cross-region-replication-monitor/
+
+S3 Regions
+https://docs.aws.amazon.com/general/latest/gr/rande.html#s3_region
+
+Replication Configuration Overview
+https://docs.aws.amazon.com/AmazonS3/latest/dev/crr-add-config.html
+
+Read-After-Write Consistency in Amazon S3
+https://shlomoswidler.com/2009/12/read-after-write-consistency-in-amazon.html
+
+S3 Faqs
+https://aws.amazon.com/s3/faqs/
